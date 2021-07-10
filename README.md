@@ -1,2 +1,1 @@
-# practice
-only test
+# Solving Baekjoon Problems
